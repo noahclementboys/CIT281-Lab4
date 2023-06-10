@@ -1,1 +1,3 @@
 # CIT281-Lab4
+
+In this Lab we started using Fastify to run servers. Addin routes to servers and errors when they dont workk...
